@@ -1,7 +1,6 @@
 # AI-Driven Large Language Models in Further Education: Impact on Teaching Practices (UK) 
 
-## MSc. Data Science Project in colaboration with Teaching and Learning Lab New City College 
-
+## MSc. Data Science Project 
 
 
 This project analyses how Large Language Models (LLMs), such as ChatGPT, are influencing teaching practices in UK Further Education institutions.
