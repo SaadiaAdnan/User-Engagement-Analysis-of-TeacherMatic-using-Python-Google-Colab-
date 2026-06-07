@@ -39,10 +39,19 @@ This project provides actionable insights for:
 
 ## Dataset Overview
 
-- Source: Online survey of UK Further Education educators  
-- Type: Structured questionnaire data  
-- Size: *700+ FE educators from NCC *  
-- Ethics: All responses anonymised to ensure GDPR compliance  
+This project uses two complementary data sources to analyse AI adoption in Further Education teaching practices:
+
+- **1. TeacherMatic Engagement Data**  
+  Aggregated and anonymised user engagement data from the TeacherMatic platform, used to understand patterns of interaction with AI-supported teaching tools.
+
+- **2. Primary Survey Data**  
+  Online survey responses collected from over 700 UK Further Education educators, focusing on AI usage frequency, perceptions, and attitudes toward AI-assisted teaching.
+
+- **Data Type:** Structured questionnaire and engagement datasets  
+- **Sample Size:** 700+ survey responses (UK Further Education educators)  
+
+### Data Ethics & Compliance
+All data used in this project has been anonymised. No personally identifiable information is included, and the analysis complies with GDPR principles.
 
 ### Variables:
 - Teaching experience (years)  
@@ -98,7 +107,7 @@ Add your charts here:
 
 ## Repository Structure
 
-├── data/               # Raw and cleaned anonymised dataset  (TeacherMatic Datasets are not loaded because of GDPR)
+├── data/              # Raw and cleaned anonymised dataset  (TeacherMatic Platform's user engagement datasets are not loaded in github following GDPR)
 ├── notebooks/         # Jupyter notebooks (analysis workflow)  
 ├── visualisations/    # Charts and graphs  
 ├── report/            # Final dissertation PDF  
