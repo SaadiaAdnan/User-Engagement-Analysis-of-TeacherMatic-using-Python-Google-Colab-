@@ -1,6 +1,6 @@
-# 📊 AI-Driven Large Language Models in Further Education: Impact on Teaching Practices (UK)
+# AI-Driven Large Language Models in Further Education: Impact on Teaching Practices (UK)
 
-## 🧠 Project Summary
+
 
 This project analyses how Large Language Models (LLMs), such as ChatGPT, are influencing teaching practices in UK Further Education institutions.
 
@@ -10,7 +10,7 @@ The aim is to translate educator responses into **data-driven insights for educa
 
 ---
 
-## 🔑 Key Insights (Read First)
+## Key Insights (Read First)
 
 - Most educators report a positive impact of AI on lesson planning efficiency  
 - AI adoption is strongly influenced by digital literacy levels  
@@ -20,7 +20,7 @@ The aim is to translate educator responses into **data-driven insights for educa
 
 ---
 
-## 💡 Business / Institutional Impact
+## Business / Institutional Impact
 
 This project provides actionable insights for:
 
@@ -35,11 +35,11 @@ This project provides actionable insights for:
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - Source: Online survey of UK Further Education educators  
 - Type: Structured questionnaire data  
-- Size: *(add number of responses here)*  
+- Size: *700+ FE educators from NCC *  
 - Ethics: All responses anonymised to ensure GDPR compliance  
 
 ### Variables:
@@ -51,7 +51,7 @@ This project provides actionable insights for:
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Data Cleaning
 - Handled missing values  
@@ -74,7 +74,7 @@ This project provides actionable insights for:
 
 ---
 
-## 📈 Key Visual Insights
+## Key Visual Insights
 
 Add your charts here:
 - AI usage frequency distribution  
@@ -84,7 +84,7 @@ Add your charts here:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, NumPy)  
 - Matplotlib, Seaborn  
@@ -94,9 +94,9 @@ Add your charts here:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
-├── data/               # Raw and cleaned anonymised dataset  
+├── data/               # Raw and cleaned anonymised dataset  (TeacherMatic Datasets are not loaded because of GDPR)
 ├── notebooks/         # Jupyter notebooks (analysis workflow)  
 ├── visualisations/    # Charts and graphs  
 ├── report/            # Final dissertation PDF  
