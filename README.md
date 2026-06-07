@@ -96,6 +96,7 @@ If p ≥ 0.05: no statistically significant difference found
 
 This helps identify whether AI adoption varies meaningfully across educator groups.
 
+- Correlation heatmap
   
 ### The heatmap shows relationships between AI usage frequency and other key variables such as teaching experience and perceived usefulness.
 
@@ -103,7 +104,7 @@ Stronger correlations suggest potential behavioural links between educator chara
 - Perceived usefulness vs concerns  
 
 - Experience vs AI adoption  
-- Correlation heatmap
+
 ---
 
 ## Tools & Technologies
