@@ -47,7 +47,7 @@ This project uses two complementary data sources to analyse AI adoption in Furth
   Online survey responses collected from over 700 UK Further Education educators, focusing on AI usage frequency, perceptions, and attitudes toward AI-assisted teaching.
 
 - **Data Type:** Structured questionnaire and engagement datasets  
-- **Sample Size:** 700+ survey responses (UK Further Education educators)  
+- **Sample Size:** 700+ anticipated survey responses (UK Further Education educators)  
 
 ### Data Ethics & Compliance
 All data used in this project has been anonymised. No personally identifiable information is included, and the analysis complies with GDPR principles.
