@@ -91,19 +91,19 @@ Add your charts here:
 
  ###  The ANOVA test was used to determine whether there are statistically significant differences in teaching experience across different levels of AI usage frequency.
 
-- If p < 0.05: significant difference between groups  
-- If p ≥ 0.05: no statistically significant difference found  
+If p < 0.05: significant difference between groups  
+If p ≥ 0.05: no statistically significant difference found  
 
 This helps identify whether AI adoption varies meaningfully across educator groups.
 
-- Experience vs AI adoption  
-- Correlation heatmap
   
 ### The heatmap shows relationships between AI usage frequency and other key variables such as teaching experience and perceived usefulness.
 
 Stronger correlations suggest potential behavioural links between educator characteristics and AI adoption.
 - Perceived usefulness vs concerns  
 
+- Experience vs AI adoption  
+- Correlation heatmap
 ---
 
 ## Tools & Technologies
