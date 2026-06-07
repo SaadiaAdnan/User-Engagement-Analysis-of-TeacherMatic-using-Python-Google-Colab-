@@ -1,4 +1,6 @@
-# AI-Driven Large Language Models in Further Education: Impact on Teaching Practices (UK) - MSc. Data Science Project in colaboration with Teaching and Learning Lab of New City College 
+# AI-Driven Large Language Models in Further Education: Impact on Teaching Practices (UK) 
+
+## MSc. Data Science Project in colaboration with Teaching and Learning Lab of New City College 
 
 
 
